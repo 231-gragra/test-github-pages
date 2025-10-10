@@ -7,5 +7,6 @@ kramdown:
       disable: true
   parse_block_html: true
   parse_span_html: true
+theme: Minima
 description: Kindle本のセール・高還元情報まとめ
 timezone: Asia/Tokyo
