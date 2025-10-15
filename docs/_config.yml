@@ -1,5 +1,5 @@
 markdown: kramdown
-remote_theme: jekyll/minima@v2.5.2
+remote_theme: minima@v2.5.2
 plugins:
   - jekyll-sitemap
 kramdown:
