@@ -1,20 +1,5 @@
----
-layout: default
-title: コミトク：Kindle本のセール・高還元情報まとめサイト
----
-
-### 最終更新時刻 **2025-10-17 12:00:51 JST**
-
-このページはKindle本のセール情報をまとめています。  
-毎日朝4時に自動生成・更新されていますので、ブックマークに保存をオススメします。
-
-### 各種リンク
-- [開催中のセール一覧](https://231-gragra.github.io/comi-toku-info/sale_list)
-- [トップページ](https://231-gragra.github.io/comi-toku-info/) 
-
-
 ## セールイベント一覧（Kindleストアリンク付き）
-### 現在**83件**のセールが開催されています  
+### 現在**87件**のセールが開催されています  
 ※セールによってはXX%以上の還元作品がなく検索エラーになる可能性があります。  
  その時は一番上のセールリンクから飛んでください。
 - **[Gakken秋の特大セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:213283887051&tag=ap231ex-2-22&s=salesrank)**
@@ -31,33 +16,61 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213272678051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:213272678051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％OFF】Kindle本(電子書籍) 13周年記念セール | 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％OFF】Kindle本\(電子書籍\) 13周年記念セール \| 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929013051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50%OFF】Kindle本 高価格帯タイトルセール | 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50%OFF】Kindle本 高価格帯タイトルセール \| 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212929012051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％OFF】Kindle本(電子書籍) 13周年記念セール | SBクリエイティブ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％OFF】Kindle本\(電子書籍\) 13周年記念セール \| SBクリエイティブ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921287051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％OFF】Kindle本(電子書籍) 13周年記念セール | インプレスグループとオレンジページ合同特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％OFF】Kindle本\(電子書籍\) 13周年記念セール \| インプレスグループとオレンジページ合同特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212921133051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
+
+- **[【最大70%OFF】Kindle本\(電子書籍\) 13周年記念セール：フォレスト出版](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051&tag=ap231ex-2-22&s=salesrank)**
+  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
+  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
+  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
+  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
+  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533802051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
+
+- **[【最大70%OFF】Kindle本\(電子書籍\) 13周年記念セール：辰巳出版](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051&tag=ap231ex-2-22&s=salesrank)**
+  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
+  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
+  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
+  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
+  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533801051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
+
+- **[【最大70%OFF】Kindle本\(電子書籍\) 13周年記念セール：SBクリエイティブ](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051&tag=ap231ex-2-22&s=salesrank)**
+  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
+  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
+  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
+  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
+  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533800051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
+
+- **[【最大70%OFF】Kindle本\(電子書籍\) 13周年記念セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051&tag=ap231ex-2-22&s=salesrank)**
+  - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
+  - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
+  - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
+  - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
+  - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212533799051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
 - **[『彼岸島』シリーズ累計100巻突破記念セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:212415402051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212415402051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
@@ -80,7 +93,7 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403993051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403993051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50%OFF】Kindle本 月替わりマンガ＆ラノベセール：GANMA!](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403992051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50%OFF】Kindle本 月替わりマンガ＆ラノベセール：GANMA\!](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403992051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403992051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403992051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212403992051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -136,14 +149,14 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212320794051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212320794051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本 プライム感謝祭秋のスペシャルセール | NHK出版特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本 プライム感謝祭秋のスペシャルセール \| NHK出版特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212319175051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本読書の秋キャンペーン|SBクリエイティブ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212257681051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本読書の秋キャンペーン\|SBクリエイティブ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:212257681051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212257681051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212257681051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212257681051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -178,21 +191,21 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212240488051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:212240488051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本読書の秋キャンペーン|翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本読書の秋キャンペーン\|翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211923169051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[秋マン!!2025_青年](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051&tag=ap231ex-2-22&s=salesrank)**
+- **[秋マン\!\!2025\_青年](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905976051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[秋マン!!2025](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905975051&tag=ap231ex-2-22&s=salesrank)**
+- **[秋マン\!\!2025](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905975051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905975051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905975051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211905975051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -213,7 +226,7 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903378051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903378051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本 プライム感謝祭秋のスペシャルセール | KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本 プライム感謝祭秋のスペシャルセール \| KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211903359051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -339,14 +352,14 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649561051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649561051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[漫祭2025 第7弾 転生も令嬢も盛りだくさん！ 異世界系漫画特集!!](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051&tag=ap231ex-2-22&s=salesrank)**
+- **[漫祭2025 第7弾 転生も令嬢も盛りだくさん！ 異世界系漫画特集\!\!](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211649560051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％還元】Kindle本(電子書籍)ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:211641370051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％還元】Kindle本\(電子書籍\)ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:211641370051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211641370051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211641370051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:211641370051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -381,7 +394,7 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210998571051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210998571051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[SPA!デジタル写真集フェア](https://www.amazon.co.jp/s?i=digital-text&rh=n:210988663051&tag=ap231ex-2-22&s=salesrank)**
+- **[SPA\!デジタル写真集フェア](https://www.amazon.co.jp/s?i=digital-text&rh=n:210988663051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210988663051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210988663051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210988663051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -409,7 +422,7 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210979877051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210979877051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[GANMA!夏休みスペシャルセール2025](https://www.amazon.co.jp/s?i=digital-text&rh=n:210785470051&tag=ap231ex-2-22&s=salesrank)**
+- **[GANMA\!夏休みスペシャルセール2025](https://www.amazon.co.jp/s?i=digital-text&rh=n:210785470051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210785470051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210785470051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210785470051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -423,21 +436,21 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210779559051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210779559051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本(電子書籍)サマーセール 第2弾 | KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本\(電子書籍\)サマーセール 第2弾 \| KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210747961051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本(電子書籍)サマーセール 第2弾 | 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本\(電子書籍\)サマーセール 第2弾 \| 翔泳社特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210709371051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[最大50%OFF 【2025年7月度】Kindle本サマーセール第2弾 | インプレスグループ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210426091051&tag=ap231ex-2-22&s=salesrank)**
+- **[最大50%OFF 【2025年7月度】Kindle本サマーセール第2弾 \| インプレスグループ特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210426091051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210426091051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210426091051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210426091051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -451,35 +464,35 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210340179051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210340179051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大70%OFF】Kindle本(電子書籍)サマーセール 第2弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大70%OFF】Kindle本\(電子書籍\)サマーセール 第2弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210326086051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[最大80%OFF Kindle本(電子書籍)プライムデーセール | ビーグリー特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051&tag=ap231ex-2-22&s=salesrank)**
+- **[最大80%OFF Kindle本\(電子書籍\)プライムデーセール \| ビーグリー特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287285051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[最大80%OFF Kindle本(電子書籍)プライムデーセール | アース・スターエンターテインメント特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051&tag=ap231ex-2-22&s=salesrank)**
+- **[最大80%OFF Kindle本\(電子書籍\)プライムデーセール \| アース・スターエンターテインメント特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210287284051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本(電子書籍)サマーセール 第一弾 | KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本\(電子書籍\)サマーセール 第一弾 \| KADOKAWA特集](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:210026494051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大70％OFF】Kindle本(電子書籍) サマーセール 第1弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:207954276051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大70％OFF】Kindle本\(電子書籍\) サマーセール 第1弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:207954276051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207954276051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207954276051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207954276051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
@@ -507,99 +520,94 @@ title: コミトク：Kindle本のセール・高還元情報まとめサイト
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207269675051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207269675051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大75%OFF】Kindle本(電子書籍) 料理・健康本セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大75%OFF】Kindle本\(電子書籍\) 料理・健康本セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:207194549051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50%OFF】Kindle本(電子書籍) 異世界・転生マンガセール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50%OFF】Kindle本\(電子書籍\) 異世界・転生マンガセール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206850524051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％還元】Kindle本(電子書籍) ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％還元】Kindle本\(電子書籍\) ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803940051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大80%OFF】Kindle本(電子書籍)プライムデーセール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大80%OFF】Kindle本\(電子書籍\)プライムデーセール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206803936051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50％OFF】Kindle本(電子書籍) 科学・テクノロジー本セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50％OFF】Kindle本\(電子書籍\) 科学・テクノロジー本セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206639461051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大65%OFF】Kindle本 (電子書籍) ゴールデンウィークセール 第2弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大65%OFF】Kindle本 \(電子書籍\) ゴールデンウィークセール 第2弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206267464051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大50%OFF】Kindle本 (電子書籍) 高額書籍セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大50%OFF】Kindle本 \(電子書籍\) 高額書籍セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206218415051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大90%OFF】Kindle本 (電子書籍) ゴールデンウィークセール 第一弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大90%OFF】Kindle本 \(電子書籍\) ゴールデンウィークセール 第一弾](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:206198074051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大70％OFF】Kindle本 (電子書籍) 新生活セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大70％OFF】Kindle本 \(電子書籍\) 新生活セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205575040051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大85%OFF】Kindle本 (電子書籍) 新生活セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大85%OFF】Kindle本 \(電子書籍\) 新生活セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567369051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[Kindle本 (電子書籍) 499円セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051&tag=ap231ex-2-22&s=salesrank)**
+- **[Kindle本 \(電子書籍\) 499円セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205567367051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【30％還元】Kindle本 (電子書籍) ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051&tag=ap231ex-2-22&s=salesrank)**
+- **[【30％還元】Kindle本 \(電子書籍\) ポイントキャンペーン](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:205022318051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-- **[【最大70％OFF】Kindle本 (電子書籍) マンガ・ライトノベル セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051&tag=ap231ex-2-22&s=salesrank)**
+- **[【最大70％OFF】Kindle本 \(電子書籍\) マンガ・ライトノベル セール](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051&tag=ap231ex-2-22&s=salesrank)**
   - [51%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051,p_n_amazon_points_ratio:10476517051&tag=ap231ex-2-22&s=salesrank)
   - [41%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051,p_n_amazon_points_ratio:10476515051&tag=ap231ex-2-22&s=salesrank)
   - [31%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051,p_n_amazon_points_ratio:10476513051&tag=ap231ex-2-22&s=salesrank)
   - [21%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051,p_n_amazon_points_ratio:10476511051&tag=ap231ex-2-22&s=salesrank)
   - [11%以上還元](https://www.amazon.co.jp/s?i=digital-text&rh=n:204336704051,p_n_amazon_points_ratio:10476509051&tag=ap231ex-2-22&s=salesrank)
 
-
-
-※実際の金額や還元率は変動する可能性があります。購入前は必ずAmazonの商品ページで最新情報をご確認ください。  
-当サイトは、Amazonのアフィリエイトプログラムによる商品紹介を行っています。  
-商品のお問い合わせは各公式サイトにお願いいたします。  
